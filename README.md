@@ -12,9 +12,10 @@ Proyek ini dibuat untuk memenuhi tugas besar mata kuliah NLP (Natural Language P
 * **Output Akhir:** Prototype aplikasi berbasis web yang sudah di-deploy.
 
 ---
-
+```markdown
 ## 📂 Struktur Folder Proyek
 
+```text
 NLP_UAS/
 ├── data/
 │   ├── raw/                  <- Simpan hasil scraping mentah di sini (Format .csv)
